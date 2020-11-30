@@ -1,6 +1,6 @@
 # routerview
 
-路由视图
+路由视图 继承重载功能
 
 ## Events
 
