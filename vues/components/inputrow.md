@@ -7,8 +7,8 @@ Form通用组件
 <!-- @vuese:inputrow:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|eltype|类型|`String`|`false`|text|
-|label|label|`String`|`false`|项目|
+|eltype|类型|—|`false`|text|
+|label|label|—|`false`|项目|
 |fieldclass|field样式|—|`false`|-|
 
 <!-- @vuese:inputrow:props:end -->

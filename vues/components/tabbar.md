@@ -9,6 +9,8 @@ Tab组件
 |---|---|---|---|---|
 |items|选项|—|`false`|-|
 |value|值|—|`false`|-|
+|indexcol|-|—|`false`|-|
+|textcol|-|—|`false`|-|
 
 <!-- @vuese:tabbar:props:end -->
 
